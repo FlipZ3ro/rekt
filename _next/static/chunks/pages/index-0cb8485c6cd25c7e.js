@@ -932,7 +932,7 @@
                         alt: "AirDropPepe",
                         width: 197,
                         height: 217,
-                        src: "/pepes/AirDropPepe.webp"
+                        src: "/_next/AirDropPepe.webp"
                     })
                 })]
             })
@@ -1196,7 +1196,7 @@
                     i.jsx)(Y(), {
                         alt: "GetRektMeme",
                         fill: !0,
-                        src: "/pepes/GetRektMeme.webp"
+                        src: "/_next/GetRektMeme.webp"
                     })
                 }), (0,
                 i.jsx)(A, {
@@ -1204,7 +1204,7 @@
                     i.jsx)(Y(), {
                         alt: "NoizyPepe",
                         fill: !0,
-                        src: "/pepes/NoizyPepe.webp"
+                        src: "/_next/NoizyPepe.webp"
                     })
                 }), (0,
                 i.jsx)(M, {})]
@@ -1613,7 +1613,7 @@
             i.jsx)(nP.Wc, {
                 children: (0,
                 i.jsx)(Y(), {
-                    src: "/pepes/pepeCool.webp",
+                    src: "/_next/pepeCool.webp",
                     alt: "coolPepe",
                     width: 400,
                     height: 380
@@ -1622,7 +1622,7 @@
             i.jsx)(nP.pv, {
                 children: (0,
                 i.jsx)(Y(), {
-                    src: "/pepes/pepeThink.webp",
+                    src: "/_next/pepeThink.webp",
                     alt: "thinkPepe",
                     width: 340,
                     height: 380
@@ -1658,7 +1658,7 @@
                     i.jsx)(nP.f2, {
                         children: (0,
                         i.jsx)(Y(), {
-                            src: "/rektSchema.png",
+                            src: "/_next/rektSchema.webp",
                             width: 630,
                             height: 540,
                             alt: "rektShemaTokenomic"
